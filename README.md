@@ -79,12 +79,37 @@ A data pipeline project featuring CSV extraction, data transformation, MySQL loa
 - Strengthening Java, Python, SQL, and software engineering fundamentals
 - Developing data visualizations and communicating insights
 
+
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/channabaswaraj-lature-157517323/)
-- 💻 [LeetCode](https://leetcode.com/u/sbF5W3V4tL/)
-- 🐙 [GitHub](https://github.com/rajlature)
+<p align="center">
+  <a href="https://www.linkedin.com/in/channabaswaraj-lature-157517323/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/sbF5W3V4tL/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/rajlature">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 *Always learning, building, and improving one project at a time.*
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajlature&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlature&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajlature&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
