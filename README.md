@@ -1,64 +1,70 @@
-# channabaswaraj-lature
-
 # Hi, I'm Channabaswaraj Lature 👋
 
-### Computer Science Engineer | Python | AI/ML | Software Development | Data Analytics
+### Computer Science Engineer | Python | AI/ML | Data Analytics
 
-I'm a Computer Science Engineering professional interested in building practical software solutions using Python, machine learning, computer vision, and data analytics.
+I'm a Computer Science Engineering graduate-in-progress passionate about building practical applications with Python, machine learning, computer vision, and data analytics.
 
-I enjoy solving problems, exploring new technologies, and developing applications that connect software engineering with real-world use cases.
+I enjoy solving problems, exploring new technologies, and developing software that addresses real-world challenges.
 
-- 🔭 **Currently focused on:** Python, Java, Data Structures and Algorithms, and AI/ML fundamentals
-- 👯 **Interested in:** Software Development, AI/ML, Data Science, and Data Analyst opportunities
-- 🌱 **Learning:** Strengthening my programming, problem-solving, and application development skills
-- 💡 **Interests:** Computer Vision, Intelligent Systems, Data Analytics, and Backend Development
+- 🔭 Currently working on Python, Java, SQL, and AI/ML fundamentals
+- 🌱 Improving my skills in software development, data engineering, and problem-solving
+- 🚦 Interested in computer vision, intelligent systems, and data-driven solutions
+- 🎯 Open to entry-level opportunities in Software Development, AI/ML, Data Science, and Data Analytics
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- Python, Java, SQL
+**Languages:** Python · Java · SQL
 
-**AI, Machine Learning & Data**
-- NumPy, Pandas, Scikit-learn, YOLOv8, OpenCV
-- Data Analysis, Data Visualization, Machine Learning Fundamentals
+**AI/ML & Data:** NumPy · Pandas · Scikit-learn · YOLOv8 · OpenCV · Data Analysis
 
-**Web & Backend Development**
-- HTML, CSS, JavaScript, React.js, Flask, FastAPI
+**Web & Backend:** HTML · CSS · JavaScript · React.js · Flask · FastAPI
 
-**Databases**
-- MySQL, Oracle, SQLite
+**Databases:** MySQL · Oracle · SQLite
 
-**Tools & Platforms**
-- Git, GitHub, VS Code, Power BI, Tableau
+**Tools & Visualization:** Git · GitHub · VS Code · Power BI · Tableau
 
 ## 🚀 Featured Projects
 
 ### 🚦 Real-time Traffic Management System
-A computer vision-based traffic management project focused on vehicle detection, adaptive traffic signal timing, emergency vehicle prioritization, and route optimization.
 
-**Technologies:** Python, YOLOv8, Computer Vision
+Computer vision-based traffic monitoring focused on vehicle detection and traffic management features.
+
+**Tech Stack:** Python · YOLOv8 · OpenCV
 
 [View Repository](https://github.com/rajlature/Real-time-Traffic-Management-System)
 
 ### 📦 Smart Warehouse & Retail Shelf Monitoring System
-A computer vision project designed to support inventory monitoring and object counting, with a dashboard, database logging, and automated email reporting.
 
-**Technologies:** Python, YOLOv8, OpenCV, Streamlit
+A computer vision project for inventory monitoring and object counting, with dashboard visualization and database logging.
+
+**Tech Stack:** Python · YOLOv8 · OpenCV · Streamlit
 
 ### 🔐 Secure Exam Browser System
-A Python desktop application designed to support controlled exam sessions through features such as authentication, timers, full-screen operation, and activity logging.
 
-**Technologies:** Python, Desktop Application Development
+A Python desktop application designed to support controlled exam sessions through authentication, timers, full-screen operation, and activity logging.
 
-## 📊 Data & Analytics
+**Tech Stack:** Python · Desktop Application Development
 
-I'm interested in using data to identify patterns, communicate insights, and support better decisions. I'm building my skills in data analysis, SQL, visualization, and machine learning.
+### 📊 ETL Data Pipeline
+
+A data pipeline project featuring CSV extraction, data transformation, MySQL loading, logging, and automated tests.
+
+**Tech Stack:** Python · Pandas · MySQL · Pytest
+
+[View Repository](https://github.com/rajlature/etl-data-pipeline)
+
+## 📈 What I'm Exploring
+
+- Building reliable data pipelines and working with relational databases
+- Applying machine learning and computer vision to practical problems
+- Strengthening Java, Python, SQL, and software engineering fundamentals
+- Developing data visualizations and communicating insights
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Channabaswaraj Lature](https://www.linkedin.com/in/channabaswaraj-lature-157517323/)
-- 💻 LeetCode: [My LeetCode Profile](https://leetcode.com/u/sbF5W3V4tL/)
-- 🐙 GitHub: [Explore My Repositories](https://github.com/rajlature)
+- 💼 [LinkedIn](https://www.linkedin.com/in/channabaswaraj-lature-157517323/)
+- 💻 [LeetCode](https://leetcode.com/u/sbF5W3V4tL/)
+- 🐙 [GitHub](https://github.com/rajlature)
 
 ---
 
