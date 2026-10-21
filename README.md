@@ -13,15 +13,34 @@ I enjoy solving problems, exploring new technologies, and developing software th
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python · Java · SQL
+## 🛠️ Tech Stack
 
-**AI/ML & Data:** NumPy · Pandas · Scikit-learn · YOLOv8 · OpenCV · Data Analysis
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java and MySQL" />
+</p>
 
-**Web & Backend:** HTML · CSS · JavaScript · React.js · Flask · FastAPI
+### AI/ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn" alt="OpenCV and Scikit-learn" />
+</p>
 
-**Databases:** MySQL · Oracle · SQLite
+### Web Development & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,fastapi" alt="HTML, CSS, JavaScript, React, Flask and FastAPI" />
+</p>
 
-**Tools & Visualization:** Git · GitHub · VS Code · Power BI · Tableau
+### Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" alt="MySQL, SQLite, Git, GitHub and VS Code" />
+</p>
+
+### Data Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python for data visualization" />
+</p>
+
+**Additional tools:** Pandas, NumPy, Power BI, Tableau, YOLOv8, Oracle, and Pytest.
 
 ## 🚀 Featured Projects
 
